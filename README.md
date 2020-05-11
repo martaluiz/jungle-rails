@@ -32,15 +32,17 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Final Product
 
-(https://github.com/)
+(https://github.com/martaluiz/jungle-rails/blob/master/docs/jungle1.png?raw=true)
 
-(https://github.com/)
+(https://github.com/martaluiz/jungle-rails/blob/master/docs/jungle2.png?raw=true)
 
-(https://github.com/)
+(https://github.com/martaluiz/jungle-rails/blob/master/docs/jungle3.png?raw=true)
 
-(https://github.com/)
+(https://github.com/martaluiz/jungle-rails/blob/master/docs/jungle%20about%20us.png?raw=true)
 
-(https://github.com/)
+(https://github.com/martaluiz/jungle-rails/blob/master/docs/jungle4.png?raw=true)
 
-(https://github.com/)
+(https://github.com/martaluiz/jungle-rails/blob/master/docs/jungle%205.png?raw=true)
+
+(https://github.com/martaluiz/jungle-rails/blob/master/docs/jungle%206.png?raw=true)
 
