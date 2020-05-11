@@ -29,3 +29,18 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * capybara
 * poltergeist
 * database_cleaner
+
+## Final Product
+
+(https://github.com/)
+
+(https://github.com/)
+
+(https://github.com/)
+
+(https://github.com/)
+
+(https://github.com/)
+
+(https://github.com/)
+
